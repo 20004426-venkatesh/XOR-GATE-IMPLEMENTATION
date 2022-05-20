@@ -47,7 +47,7 @@ print(model.predict(training_data).round())
 
 ## Output:
 
-![image](https://github.com/20004426-venkatesh/XOR-GATE-IMPLEMENTATION/blob/main/nNn8.png)
+![image](https://github.com/20004426-venkatesh/XOR-GATE-IMPLEMENTATION/blob/main/nn8.jpg)
 
 
 
